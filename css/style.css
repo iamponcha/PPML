@@ -1108,6 +1108,35 @@ a:focus {
 }
 
 
+
+team .team-A {
+    position: relative;
+    width: 100%;
+    padding: 35px 30px 30px 30px;
+    text-align: center;
+    background: #222429;
+    border-radius: 0 0 5px 5px;
+    transition: .5s;
+}
+
+.team .team-item:hover .team-A {
+    background: #FB5B21;
+}
+
+.team .team-A h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.team .team-A p {
+    margin: 0;
+    color: #ffffff;
+}
+
+
 /*******************************/
 /******* Testimonial CSS *******/
 /*******************************/
